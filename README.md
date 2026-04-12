@@ -45,20 +45,6 @@ Just open `frontend/index.html` in your browser — no build step needed.
 - Supports Kotlin (Android), Java (Android), Kotlin Multiplatform
 - 4 built-in sample snippets
 
----
-
-## Project Structure
-
-```
-smart-code-reviewer/
-├── backend/
-│   ├── server.js        ← Express API + Groq integration
-│   ├── package.json
-│   ├── .env.example     ← Copy to .env and add your key
-│   └── .gitignore       ← .env is gitignored
-└── frontend/
-    └── index.html       ← Full UI, no build step
-```
 
 ---
 
